@@ -13,5 +13,6 @@ A collection of links to free games with no ads.
 | [Snake PWA](https://snake-pwa.github.io/) | snake | [keeshi](https://github.com/keeshii) | [GitHub](https://github.com/snake-pwa/snake) | | 
 | [Tic Tac Toe](https://tmaiadev-tictactoe.netlify.app/) | tic tac toe vs computer | [Thalles Maia](https://thallesmaia.com/) | [GitHub](https://github.com/tmaiadev) | |
 | [gamesnacks](https://gamesnacks.com/) | various action games | Google | | |
+| [Vue-Solitaire](https://vue-solitaire.netlify.app/) | klondike solitaire | [Alex Riviere](https://alex.party) | [GitHub](https://github.com/fimion/vue-solitaire) | |
 
 
