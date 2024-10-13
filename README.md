@@ -28,6 +28,7 @@ Game Collections
 | ---- | ---- | ---- | ---- | ---- |
 | [Orisinal Collection](https://www.ferryhalim.com/orisinal/) | various action games | [Ferry Halim](https://www.ferryhalim.com/) | | |
 | [gamesnacks](https://gamesnacks.com/) | various action games | Google | | |
+| [Vue-Solitaire](https://vue-solitaire.netlify.app/) | klondike solitaire | [Alex Riviere](https://alex.party) | [GitHub](https://github.com/fimion/vue-solitaire) | |
 
 
 
