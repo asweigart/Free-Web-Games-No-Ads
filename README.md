@@ -18,7 +18,7 @@ Individual Games
 | [Sigil](https://sigilbattle.com/) | abstract strategy game | [Pine Island Games](https://sigilbattle.com/static/images/pine-island-games-logo.png) | | |
 | [Hex puzzle series](http://www.mseymour.ca/hex_puzzle/hexpuzzle.html) | abstract strategy game | [Matthew Seymour](http://www.mseymour.ca/hex_book/hexstrat.html) | | |
 | [Colamone](https://kurehajime.github.io/colamone_js/) | Chess-like movement board game | [@kurehajime](https://twitter.com/kurehajime) |
-
+| [Tak](Playtak.com) | Original abstract strategy game, [instructions](https://ustak.org/play-beautiful-game-tak/) | James Ernest of Cheapass Games | | |
 
 
 Game Collections
