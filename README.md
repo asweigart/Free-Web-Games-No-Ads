@@ -26,6 +26,7 @@ Game Collections
 
 | Name | Description | Creator | Source Code | Support/Donate |
 | ---- | ---- | ---- | ---- | ---- |
+| [NYT Tech Guild](https://nytimesguild.org/tech/guild-builds/index.html) (games to play [during the strike](https://nytimesguild.org/tech/)) | various action/word/puzzle games | 
 | [Orisinal Collection](https://www.ferryhalim.com/orisinal/) | various action games | [Ferry Halim](https://www.ferryhalim.com/) | | |
 | [gamesnacks](https://gamesnacks.com/) | various action games | Google | | |
 | [Vue-Solitaire](https://vue-solitaire.netlify.app/) | klondike solitaire | [Alex Riviere](https://alex.party) | [GitHub](https://github.com/fimion/vue-solitaire) | |
@@ -35,6 +36,8 @@ Game Collections
 Content Under Consideration
 ============================
 
+I'd like this to be a list of games that have a certain level of polish that would make them viable as commercially-available games. (And list the functional but unpolished games in a separate list - they still have value.) The following are games and collections of content under consideration for later.
+
 https://www.reddit.com/r/abstractgames/search?q=web&restrict_sr=on&sort=relevance&t=all
 
 https://www.onlinesologames.com/ Andy Lewicki
@@ -43,7 +46,7 @@ https://www.playonlinedicegames.com/
 
 http://www.progressquest.com/play/
 
-
+https://kyleburke.info/DB/combGames/
 
 
 
@@ -61,3 +64,25 @@ https://github.com/midzer/awesome-emscripten
 
 https://neal.fun/
 
+https://www.roundgames.net/
+
+https://freegames.org/
+
+https://gamaverse.com/
+
+https://ad-freegames.github.io/
+
+https://akedoonline.com/
+
+https://plays.org/mahjong-connect-2/
+
+https://ad-freegames.com/
+
+https://Lichess.org
+
+
+https://www.y8.com/games/stickman_troll_thief_puzzle
+
+http://openarcade.github.io/
+
+https://poki.com/
