@@ -86,3 +86,8 @@ https://www.y8.com/games/stickman_troll_thief_puzzle
 http://openarcade.github.io/
 
 https://poki.com/
+
+https://www.coolmathgames.com/ ads are blocked by ad-blockers
+
+https://www.xpgameplus.com/ ads are blocked by ad-blockers
+
