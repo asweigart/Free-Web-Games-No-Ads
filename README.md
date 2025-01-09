@@ -91,3 +91,4 @@ https://www.coolmathgames.com/ ads are blocked by ad-blockers
 
 https://www.xpgameplus.com/ ads are blocked by ad-blockers
 
+https://www.freegame.com (no ads even though there are AD icon in games)
