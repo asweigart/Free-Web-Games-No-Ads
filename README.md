@@ -30,6 +30,7 @@ Game Collections
 | [Orisinal Collection](https://www.ferryhalim.com/orisinal/) | various action games | [Ferry Halim](https://www.ferryhalim.com/) | | |
 | [gamesnacks](https://gamesnacks.com/) | various action games | Google | | |
 | [Vue-Solitaire](https://vue-solitaire.netlify.app/) | klondike solitaire | [Alex Riviere](https://alex.party) | [GitHub](https://github.com/fimion/vue-solitaire) | |
+| [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) | Puzzle Games | [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/) | (.gz file)[https://www.chiark.greenend.org.uk/~sgtatham/puzzles/puzzles.tar.gz] |  |
 
 
 
