@@ -41,6 +41,24 @@ Content Under Consideration
 
 I'd like this to be a list of games that have a certain level of polish that would make them viable as commercially-available games. (And list the functional but unpolished games in a separate list - they still have value.) The following are games and collections of content under consideration for later.
 
+https://wwwtyro.github.io/Astray/ a slick WebGL maze where you roll a glowing ball to the exit
+
+https://0hh1.com/ elegant binary/Takuzu logic puzzles with daily and free-play modes
+
+https://david-peter.de/cube-composer/ a functional-programming puzzle about composing transforms on colored cubes.
+
+https://aerolab.github.io/blockrain.js/ a polished, vanilla Tetris you can play right on the project page
+
+https://thedoggybrad.github.io/2048ontheweb/ classic 2048 implementation hosted on GitHub Pages.
+
+https://hexgl.bkcore.com/play/ fast, F-Zero-style WebGL racer by BKcore; runs entirely in-page.
+
+https://lichess.org/
+
+https://solitaireforfree.com/
+
+https://kurehajime.github.io/colamone_js/ A strategic board game similar to chess but simpler.
+
 https://www.reddit.com/r/abstractgames/search?q=web&restrict_sr=on&sort=relevance&t=all
 
 https://www.onlinesologames.com/ Andy Lewicki
