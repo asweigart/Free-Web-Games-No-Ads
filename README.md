@@ -19,6 +19,8 @@ Individual Games
 | [Hex puzzle series](http://www.mseymour.ca/hex_puzzle/hexpuzzle.html) | abstract strategy game | [Matthew Seymour](http://www.mseymour.ca/hex_book/hexstrat.html) | | |
 | [Colamone](https://kurehajime.github.io/colamone_js/) | Chess-like movement board game | [@kurehajime](https://twitter.com/kurehajime) |
 | [Tak](Playtak.com) | Original abstract strategy game, [instructions](https://ustak.org/play-beautiful-game-tak/) | James Ernest of Cheapass Games | | |
+| [Prime Sweeper](https://vole.wtf/primesweeper/) | Minesweeper but you must avoid prime numbers. | | | |
+| [TacTicToe](https://tactictoe.io/) | 3D tic tac toe with a push mechanic. | | | |
 
 
 Game Collections
@@ -50,6 +52,7 @@ http://www.progressquest.com/play/
 https://kyleburke.info/DB/combGames/
 
 
+https://tonybaloney.github.io/Sudoxu/
 
 https://www.gamedesign.jp/games/dicewars/
 
@@ -92,3 +95,6 @@ https://www.coolmathgames.com/ ads are blocked by ad-blockers
 
 https://www.xpgameplus.com/ ads are blocked by ad-blockers
 
+https://www.puzzle-loop.com/
+
+TODO: Create a showcase website for these entries. Featured item changes by day. Track clicks to find more popular ones.
