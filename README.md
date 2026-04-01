@@ -9,6 +9,7 @@ Individual Games
 | Name | Description | Creator | Source Code | Support/Donate |
 | ---- | ---- | ---- | ---- | ---- |
 | [Soodoku](https://soodoku.com/ ) | sudoku | | | |
+| [Sudoku a Day](https://sudokuaday.com) | daily sudoku in 5 difficulty levels, 17 languages, no ads | | | |
 | [Battleships](https://lukerissacher.com/battleships) | battleship solitaire | [Luke Rissacher](https://lukerissacher.com/) | | [Donate](https://lukerissacher.com/howtopay) |
 | [Othello-Rust](https://othello-rust.web.app/) | othello/reversi | [Nate Stringham](https://github.com/nstringham) | [GitHub](https://github.com/nstringham/othello-web-app) | |
 | [Hextris](https://hextris.io/ ) | tetris/dr. mario with hexagons | multiple | [GitHub](https://github.com/Hextris/hextris) | |
