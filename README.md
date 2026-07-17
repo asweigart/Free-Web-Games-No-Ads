@@ -35,6 +35,8 @@ Game Collections
 | [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) | Puzzle Games | [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/) | (.gz file)[https://www.chiark.greenend.org.uk/~sgtatham/puzzles/puzzles.tar.gz] |  |
 
 
+| [World Chase](https://www.worldchase.net/) | Competitive weekly geography game: decode cryptic riddles to find real-world locations on a map | [JezKirkpatrick](https://github.com/JezKirkpatrick) | [GitHub](https://github.com/JezKirkpatrick/WorldChase) | |
+| [Kids World Chase](https://www.kidsworldchase.net/) | Weekly geography adventure for children aged 8-13: solve riddles and explore real locations via Google Street View | [JezKirkpatrick](https://github.com/JezKirkpatrick) | [GitHub](https://github.com/JezKirkpatrick/kids-world-chase) | |
 
 Content Under Consideration
 ============================
