@@ -21,6 +21,7 @@ Individual Games
 | [Tak](Playtak.com) | Original abstract strategy game, [instructions](https://ustak.org/play-beautiful-game-tak/) | James Ernest of Cheapass Games | | |
 | [Prime Sweeper](https://vole.wtf/primesweeper/) | Minesweeper but you must avoid prime numbers. | | | |
 | [TacTicToe](https://tactictoe.io/) | 3D tic tac toe with a push mechanic. | | | |
+| [Crowd Pick](https://noillirk.best/#practice) | Single-player word puzzle about guessing the crowd’s most popular answer. | liuzhen264 | | |
 
 
 Game Collections
